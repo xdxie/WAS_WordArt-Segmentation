@@ -3,6 +3,8 @@ The official codes and datasets for [Artistic Text Segmentation](https://arxiv.o
 
 The synthetic dataset [WAS-S](https://huggingface.co/datasets/AlanYeager/WAS/) is available (Updated the synthetic images in September 2025).
 
+The data synthesis code is available.
+
 ## Citation
 Please cite the following paper when using the WAS dataset or this repo.
 
